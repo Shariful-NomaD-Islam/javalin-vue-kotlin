@@ -7,6 +7,7 @@ gradle clean build
 
 ## Run
 gradle clean installDist
+
 .\build\install\javalinevuekot\bin\javalinevuekot
 
 
